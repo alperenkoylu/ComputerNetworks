@@ -1,0 +1,2 @@
+Average Ping RTT to TR Central/Ankara (5.23.0.17) is 53 at 09/26 17:39:20
+Average Ping RTT to TR Central/Ankara (5.23.0.17) is 54 at 09/26 17:39:50

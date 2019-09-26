@@ -1,0 +1,2 @@
+Average Ping RTT to EU Central/Frankfurt (3.120.0.0) is 52 at 09/26 17:39:27
+Average Ping RTT to EU Central/Frankfurt (3.120.0.0) is 50 at 09/26 17:39:52

@@ -1,0 +1,2 @@
+Average Ping RTT to SA East/São Paulo (18.229.0.0) is 281 at 09/26 17:39:28
+Average Ping RTT to SA East/São Paulo (18.229.0.0) is 286 at 09/26 17:39:53

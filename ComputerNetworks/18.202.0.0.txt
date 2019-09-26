@@ -1,0 +1,2 @@
+Average Ping RTT to EU West/Dublin (18.202.0.0) is 102 at 09/26 17:39:27
+Average Ping RTT to EU West/Dublin (18.202.0.0) is 104 at 09/26 17:39:52

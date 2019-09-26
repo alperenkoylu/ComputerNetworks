@@ -1,0 +1,2 @@
+Average Ping RTT to CA Central/Ontario (15.222.0.0) is 178 at 09/26 17:39:22
+Average Ping RTT to CA Central/Ontario (15.222.0.0) is 177 at 09/26 17:39:51

@@ -1,0 +1,2 @@
+Average Ping RTT to CH North/Beijing (54.222.240.4) is 2610 at 09/26 17:39:27
+Average Ping RTT to CH North/Beijing (54.222.240.4) is 220 at 09/26 17:39:52
